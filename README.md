@@ -48,14 +48,14 @@ The negative sign in gain indicates a **phase shift of 180°**.
 Acl = -RF/R1
 
 ### PIN DIAGRAM
-![WhatsApp Image 2026-03-27 at 7 12 40 PM](https://github.com/user-attachments/assets/2eaa8aa6-b4e4-465b-a983-0ff6c6bfc9a8)
+<img width="985" height="796" alt="{4CB69F31-B8C5-42B9-A2DD-0F8B36D4E24B}" src="https://github.com/user-attachments/assets/2798042b-23f6-494b-b0dd-6f6988352924" />
 
 ### CIRCUIT DIAGRAM: INVERTING AMPLIFIER:
-![WhatsApp Image 2026-03-27 at 7 13 29 PM](https://github.com/user-attachments/assets/ae4837b8-fb87-44a1-a846-46b67f20347a)
+<img width="1061" height="771" alt="{0AF910F5-D37B-465A-B486-64F2791C4C1C}" src="https://github.com/user-attachments/assets/29613e92-6254-4418-a204-a10d7e5250bc" />
 
 ### MODEL GRAPH 
 
-![WhatsApp Image 2026-03-27 at 7 14 59 PM](https://github.com/user-attachments/assets/e31ee1c1-ca53-41c0-b32b-1e80e6de9547)
+<img width="992" height="767" alt="{F97667F8-C844-4060-BEA3-63FEDA49ECB3}" src="https://github.com/user-attachments/assets/5d6ca71b-9653-42b6-9aa5-53158e6d7e8b" />
 
 
 
@@ -67,7 +67,7 @@ A = -Rf/R1
 Take  A = 10
 Rf =100 R1
 Choose R1 = 1kΩ, Rf=100kΩ
-![WhatsApp Image 2026-03-27 at 9 47 26 PM](https://github.com/user-attachments/assets/ed886fd9-70c0-44e1-b243-89ccaa1a4b29)
+<img width="1176" height="760" alt="{A2FBA4B4-8944-446D-AF33-11C9C3FCD840}" src="https://github.com/user-attachments/assets/96ccd7e9-f1c2-4ffa-a8de-f472e3f43fd0" />
 
 
 ### PROCEDURE:
@@ -84,16 +84,16 @@ Inverting amplifier:
 
 ## TABULATION
 
-![WhatsApp Image 2026-03-27 at 7 23 50 PM](https://github.com/user-attachments/assets/5903015e-7fe0-4302-860a-3ca5a1b95f3f)
+<img width="1396" height="783" alt="{43B886C3-4583-4EBB-B3C6-4A4AB922694D}" src="https://github.com/user-attachments/assets/898bd429-75cd-44c7-9644-9cefe81b033d" />
 
 ---
 ## CALCULATION
 
-![WhatsApp Image 2026-03-27 at 7 23 07 PM](https://github.com/user-attachments/assets/e0032c4d-13ab-4b78-aaec-db0231888e7d)
+<img width="1826" height="697" alt="{A905D02C-2FBA-44CE-9C11-E53C520ABFD8}" src="https://github.com/user-attachments/assets/d626120a-21dc-4565-82eb-5ab2a0b23633" />
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-![WhatsApp Image 2026-03-27 at 7 25 34 PM](https://github.com/user-attachments/assets/f6a6dd1e-2dcb-4318-8420-feeecc1cfd24)
+<img width="571" height="771" alt="{B2E35B35-0BB0-4A2E-9185-58291EC0C92F}" src="https://github.com/user-attachments/assets/f4e21d0e-bbea-4f1e-8a8a-0a260834c247" />
 
 ---
 ### **Non-Inverting Amplifier**
@@ -109,18 +109,17 @@ ACL = 1 + RF/R1
 
 ## CIRCUIT DIAGRAM
 
-![WhatsApp Image 2026-03-27 at 7 27 27 PM](https://github.com/user-attachments/assets/82340f38-77f1-4fc6-94e7-e736af7d9423)
+<img width="1019" height="738" alt="{3DE74AB8-782D-4B70-B43F-D6E1793B71AF}" src="https://github.com/user-attachments/assets/4b98db42-c8ee-4126-bcb9-c424b1aa0a2f" />
 
 ---
 
 ## MODEL GRAPH
 
- ![WhatsApp Image 2026-03-27 at 7 28 34 PM](https://github.com/user-attachments/assets/c2bd3bcd-5766-47bf-976f-b5f5e2e874b2)
+<img width="901" height="779" alt="{D123773B-CDC8-4E17-850A-78DC9FDB5129}" src="https://github.com/user-attachments/assets/c63d5227-195d-49ff-8beb-72b5deb87ac6" />
 
 ---
 ## DESIGN 
-![WhatsApp Image 2026-03-27 at 9 49 03 PM](https://github.com/user-attachments/assets/66e04527-8eba-4d2e-9225-d401ce182811)
-![WhatsApp Image 2026-03-27 at 9 50 06 PM](https://github.com/user-attachments/assets/91189f00-29dc-4b0d-a319-c47a21047d89)
+<img width="471" height="788" alt="{4F8A0DA8-39A3-45E6-9B53-D0720E05CD44}" src="https://github.com/user-attachments/assets/d7da9f4c-1a90-4905-9da3-16dc401a0f27" />
 
 ## PROCEDURE:
 ### **For  Non-Inverting Amplifier**
@@ -134,12 +133,13 @@ ACL = 1 + RF/R1
 
 ## TABULATION
 
- ![WhatsApp Image 2026-03-27 at 7 34 13 PM](https://github.com/user-attachments/assets/e002aaf3-1caa-405d-8b99-bc41569692b3)
+<img width="1714" height="809" alt="{0D75F3C4-D6EE-47F7-88BD-5E5D0EC93092}" src="https://github.com/user-attachments/assets/63771ee7-4430-4a4d-894e-89c88204211b" />
+<img width="1296" height="750" alt="{C958A9DB-73C0-4A08-9375-6C1722715876}" src="https://github.com/user-attachments/assets/a39e3a98-d16b-4deb-97b2-1cfc9fd26284" />
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-![WhatsApp Image 2026-03-27 at 7 35 50 PM](https://github.com/user-attachments/assets/49ae0916-a6aa-460c-8113-7de2c7645c22)
+<img width="552" height="773" alt="{4E2AD5D3-C3BC-464C-89C0-DD9AD40246FB}" src="https://github.com/user-attachments/assets/896b5053-63e8-4f67-9304-7019b2690fce" />
 
 ---
 ## DIFFERENTIAL AMPLIFIER
@@ -168,7 +168,7 @@ AV = Vo/{V1 - V2} = -Rf/R1
 Take  A = 10 
 ⇒  Rf = 100R1   
 Choose  R1 = 1kOhm, Rf = 100kOhm
-![WhatsApp Image 2026-03-27 at 9 51 36 PM](https://github.com/user-attachments/assets/c2477384-57ae-408f-b435-943684d7aa2b)
+<img width="1010" height="721" alt="{FD788E10-55E3-433E-9E5C-16CE19F17F04}" src="https://github.com/user-attachments/assets/30b25a93-5aca-4073-8cc1-fa792500b32c" />
 
 ---
 
@@ -184,18 +184,16 @@ Choose  R1 = 1kOhm, Rf = 100kOhm
 ---
 
 ## TABULATION (Differential Amplifier)
-
-![WhatsApp Image 2026-03-27 at 7 39 25 PM](https://github.com/user-attachments/assets/ae6fd557-a61c-44c0-8391-9bcdfd6ef141)
-
+<img width="1903" height="777" alt="{29214920-C65D-4717-8526-F665A9288DA3}" src="https://github.com/user-attachments/assets/097a0328-f6f3-4ef8-ae8b-4b1b0e36c2bc" />
 
 ---
 ## CALCULATION 
 
-![WhatsApp Image 2026-03-27 at 7 38 10 PM](https://github.com/user-attachments/assets/fa0105fc-6437-4b94-ac3b-5736c6b5dcdb)
+<img width="1391" height="730" alt="{1C17BA94-24CA-411C-928F-8A5FA61CC966}" src="https://github.com/user-attachments/assets/d49ce4c6-779e-41d4-82aa-d174b62dc782" />
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-![WhatsApp Image 2026-03-27 at 7 40 02 PM](https://github.com/user-attachments/assets/afdfa8c4-e6d6-404b-964d-d6180cef38a3)
+<img width="578" height="760" alt="{2C34C445-5155-48DC-BB44-E54C39242608}" src="https://github.com/user-attachments/assets/f84abf5c-62c9-426d-8169-cb90352aadc9" />
 
 ---
 ## INSTRUMENTATION AMPLIFIER
@@ -210,15 +208,15 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
 
 ## CIRCUIT DIAGRAM: INSTRUMENTATION AMPLIFIER
 
-![WhatsApp Image 2026-03-27 at 7 41 30 PM](https://github.com/user-attachments/assets/fca5382b-7288-4d52-bd43-70ca703fc492)
+<img width="787" height="779" alt="{BBD9418F-6B66-4276-8AFC-DD878E9D7019}" src="https://github.com/user-attachments/assets/a4218bb6-8b54-4f1a-a808-a038f92065c5" />
 
 ## MODEL GRAPH
 
-![WhatsApp Image 2026-03-27 at 7 43 20 PM](https://github.com/user-attachments/assets/fe7fb554-56ad-4eb1-97e0-9a5fefeb1d00)
+<img width="847" height="765" alt="{500E398C-1AA1-465A-870C-655BB95073A7}" src="https://github.com/user-attachments/assets/c46c459c-693a-49b8-9273-96a600261e32" />
 
 ## DESIGN
 
-![WhatsApp Image 2026-03-27 at 9 53 26 PM](https://github.com/user-attachments/assets/dd02524f-71c2-4c29-8fbf-83de5ee46a6e)
+<img width="1148" height="768" alt="{87F33F89-605B-4E97-8BE2-A41023381B57}" src="https://github.com/user-attachments/assets/bccf9877-8edf-4106-bfc1-6aef53872d53" />
 
 ## PROCEDURE:
 
@@ -233,14 +231,14 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
 ---
 
 ## TABULATION (Instrumentation Amplifier)
-![WhatsApp Image 2026-03-27 at 7 45 19 PM](https://github.com/user-attachments/assets/df69f64d-f6e5-40fb-ba49-62c4d34f2a5f)
+<img width="394" height="203" alt="{A3AAEE7C-F170-4C6B-B421-C08569A874BF}" src="https://github.com/user-attachments/assets/41902dcc-07c0-4116-b917-afc33e076594" />
 
 ## CALCULATION
-![WhatsApp Image 2026-03-27 at 7 44 36 PM](https://github.com/user-attachments/assets/f041d0fe-6914-42f1-b4e0-85c1e37ef14a)
+<img width="433" height="235" alt="{DA27501E-133D-48D2-919D-72AC1D33B7E3}" src="https://github.com/user-attachments/assets/5abf46f5-ca1f-46e2-8844-1633ed981407" />
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-![WhatsApp Image 2026-03-27 at 8 02 54 PM](https://github.com/user-attachments/assets/6d20f5a1-abbf-41d3-bb18-c4bd5aadb746)
+<img width="403" height="519" alt="{1696BE49-61AB-4A01-AA26-E3D2A5F4F17C}" src="https://github.com/user-attachments/assets/35466fd7-bb8b-4e1c-8bcd-b33bb98ef6a5" />
 
 
 ---
